@@ -1,0 +1,1709 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3bdb682e-16f1-4662-9b00-b0c9070eb240")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "3V3"
+		(exclude_from_sim no)
+		(at 41.91 33.528 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e55668b-41a2-482b-9dc1-d9f62d66d892")
+	)
+	(text "1v2"
+		(exclude_from_sim no)
+		(at 41.91 27.178 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "af48acaa-89bc-4d6c-84fa-57a46de0e302")
+	)
+	(polyline
+		(pts
+			(xy 91.44 40.64) (xy 110.49 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a76d298-695d-411a-8405-5a48ddb5a87b")
+	)
+	(polyline
+		(pts
+			(xy 38.1 27.94) (xy 63.5 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14c6b6fc-606c-422b-b000-aa563d775dd2")
+	)
+	(polyline
+		(pts
+			(xy 238.76 138.43) (xy 243.84 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dac078d-d40b-4e6b-8542-b40c1661caa9")
+	)
+	(polyline
+		(pts
+			(xy 120.65 123.19) (xy 120.65 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20aea76d-805c-48b8-82d3-7c6c976acc89")
+	)
+	(polyline
+		(pts
+			(xy 74.93 118.11) (xy 82.55 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21c83080-5601-40cc-9b80-856270c39588")
+	)
+	(polyline
+		(pts
+			(xy 91.44 27.94) (xy 110.49 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "240483f1-cfa7-4672-b0ef-d49172e0459f")
+	)
+	(polyline
+		(pts
+			(xy 52.07 34.29) (xy 52.07 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "316dabc3-c1cb-460e-9501-7deb1a09c52e")
+	)
+	(polyline
+		(pts
+			(xy 80.01 91.44) (xy 80.01 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3526b627-872c-4438-8e5b-8c3f2ee3ddb0")
+	)
+	(polyline
+		(pts
+			(xy 186.69 120.65) (xy 204.47 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38334c29-8c8b-4f0f-89c8-508370bc6065")
+	)
+	(polyline
+		(pts
+			(xy 196.85 114.3) (xy 204.47 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c399ac2-3beb-4fd8-90e4-00cc79950a15")
+	)
+	(polyline
+		(pts
+			(xy 64.77 120.65) (xy 82.55 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "405d4b46-6ae2-4c0d-b274-a52d49abdafb")
+	)
+	(polyline
+		(pts
+			(xy 80.01 91.44) (xy 200.66 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a77716b-d382-4564-938d-47b0ea99755f")
+	)
+	(polyline
+		(pts
+			(xy 77.47 100.33) (xy 77.47 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b2146c0-6ef8-4717-9f37-9bd2694a1de0")
+	)
+	(polyline
+		(pts
+			(xy 81.28 27.94) (xy 91.44 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6fa983-650c-4264-9082-7f82fa822fcc")
+	)
+	(polyline
+		(pts
+			(xy 123.19 120.65) (xy 123.19 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4baed251-a6ad-4bdc-a996-71b79a0e512f")
+	)
+	(polyline
+		(pts
+			(xy 63.5 40.64) (xy 58.42 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e9fbb4d-637f-497d-9483-b2a2077b651d")
+	)
+	(polyline
+		(pts
+			(xy 62.23 91.44) (xy 80.01 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ee03eef-52db-4975-8ad8-4fceee7a5db0")
+	)
+	(polyline
+		(pts
+			(xy 33.02 100.33) (xy 62.23 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53d3a286-75f4-45b7-b13a-1fcb43c4c8da")
+	)
+	(polyline
+		(pts
+			(xy 238.76 123.19) (xy 238.76 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "603e3557-76ac-40b9-8495-f75df550b7f6")
+	)
+	(polyline
+		(pts
+			(xy 102.87 123.19) (xy 120.65 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60acba56-d0fe-4e81-b614-1687be2b6bd5")
+	)
+	(polyline
+		(pts
+			(xy 196.85 109.22) (xy 196.85 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65597da6-2da3-4aa9-ade1-a8721303d450")
+	)
+	(polyline
+		(pts
+			(xy 68.58 107.95) (xy 74.93 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c4a29b6-0ee9-4a7b-a8f6-e08a79f59512")
+	)
+	(polyline
+		(pts
+			(xy 220.98 123.19) (xy 238.76 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ca8de25-4c2f-4948-8ce0-7433c79b71dd")
+	)
+	(polyline
+		(pts
+			(xy 185.42 109.22) (xy 189.23 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff80924-5d96-41c4-9c38-8948610901e4")
+	)
+	(polyline
+		(pts
+			(xy 74.93 107.95) (xy 74.93 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7207b136-38d0-4101-80b7-8c3e0ffa8965")
+	)
+	(polyline
+		(pts
+			(xy 200.66 113.03) (xy 204.47 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "756ccbdc-4e66-4c66-ad5d-e9d297245ae9")
+	)
+	(polyline
+		(pts
+			(xy 200.66 91.44) (xy 200.66 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76b40a18-7ae4-4c6c-bb83-9afbfdd8c2f4")
+	)
+	(polyline
+		(pts
+			(xy 165.1 118.11) (xy 204.47 118.11)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(uuid "8b68d3c3-1003-468b-b78b-e8f57addcc43")
+	)
+	(polyline
+		(pts
+			(xy 33.02 91.44) (xy 62.23 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9443d2ef-8331-4eaf-89a1-b3cdc8ff3002")
+	)
+	(polyline
+		(pts
+			(xy 77.47 115.57) (xy 82.55 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9602607b-1878-4097-a932-73aa3269d23d")
+	)
+	(polyline
+		(pts
+			(xy 102.87 120.65) (xy 123.19 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96cd585f-c728-4fe2-84ad-251818ad81db")
+	)
+	(polyline
+		(pts
+			(xy 189.23 109.22) (xy 196.85 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "971d9642-87e7-4cb9-a7dc-22d5be3d55e3")
+	)
+	(polyline
+		(pts
+			(xy 58.42 40.64) (xy 58.42 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97464eed-f32c-49b0-b7e7-cd08c26f2492")
+	)
+	(polyline
+		(pts
+			(xy 241.3 120.65) (xy 241.3 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2f138d8-6ac1-4d32-a6bd-aef2baf41b69")
+	)
+	(polyline
+		(pts
+			(xy 241.3 128.27) (xy 243.84 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a73eede5-be5a-44d3-86d1-581faac73551")
+	)
+	(polyline
+		(pts
+			(xy 220.98 120.65) (xy 241.3 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a79ef913-cb58-4a6c-9a40-6724dc7e76af")
+	)
+	(polyline
+		(pts
+			(xy 120.65 138.43) (xy 125.73 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b408628a-d26c-4d49-b037-aff26f8d7412")
+	)
+	(polyline
+		(pts
+			(xy 182.88 120.65) (xy 186.69 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b76a066d-81c6-4e13-bf25-5196ea07b236")
+	)
+	(polyline
+		(pts
+			(xy 102.87 118.11) (xy 165.1 118.11)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(uuid "c3211e18-20b0-413b-b491-6739c43058f2")
+	)
+	(polyline
+		(pts
+			(xy 62.23 100.33) (xy 77.47 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c60090b6-a355-4cb4-aac7-eccc606daa7f")
+	)
+	(polyline
+		(pts
+			(xy 81.28 40.64) (xy 92.71 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c903f486-de92-4e15-8748-70c593a80f59")
+	)
+	(polyline
+		(pts
+			(xy 123.19 128.27) (xy 125.73 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d66e06ea-bf85-4fdf-b290-8d24a50643cc")
+	)
+	(polyline
+		(pts
+			(xy 52.07 62.23) (xy 63.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d87cc2b9-1b07-407c-8bfb-aa0724d60aad")
+	)
+	(polyline
+		(pts
+			(xy 38.1 34.29) (xy 52.07 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc5ca4d6-ab79-4807-9442-9868fbd6d7f4")
+	)
+	(polyline
+		(pts
+			(xy 80.01 113.03) (xy 82.55 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcc29429-0f8e-4b3a-b756-6447ff917c25")
+	)
+	(polyline
+		(pts
+			(xy 204.47 114.3) (xy 204.47 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd028988-ae5d-4a02-bf4a-a35b590aca43")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 215.9 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "0e2b526b-684a-4348-ad36-c1ee8e04e8c4")
+		(property "Reference" "H3"
+			(at 218.44 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 218.44 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 215.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 215.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digieky" ""
+			(at 215.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 215.9 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 241.3 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "3febe936-5db2-45ae-9315-bc1dd885f240")
+		(property "Reference" "H4"
+			(at 243.84 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 243.84 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 241.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 241.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digieky" ""
+			(at 241.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 241.3 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 241.3 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "b2950888-46c0-4c3a-8d87-ef2ade49b9c0")
+		(property "Reference" "H2"
+			(at 243.84 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 243.84 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digieky" ""
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 215.9 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "b9f013e3-05af-44a5-8fa2-7f91daaf4525")
+		(property "Reference" "H1"
+			(at 218.44 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 218.44 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digieky" ""
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 215.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project ""
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 204.47 110.49)
+		(size 16.51 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "05e58379-3136-4784-a311-aa48fe232d95")
+		(property "Sheetname" "Main FPGA IO"
+			(at 206.756 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGAIO.kicad_sch"
+			(at 204.47 125.0446 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 25.4)
+		(size 24.13 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0f7e5d6c-5ed3-4d2c-b302-960676ebac6e")
+		(property "Sheetname" "Main FPGA Power"
+			(at 110.998 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGAPower.kicad_sch"
+			(at 110.49 31.0646 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 127)
+		(size 27.94 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3f9015ba-1e1b-4181-8827-9de0bcfaf07f")
+		(property "Sheetname" "Controller FPGA Header"
+			(at 126.746 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControllerFPGAHeader.kicad_sch"
+			(at 125.73 131.318 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 135.89)
+		(size 21.59 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3ffd7f99-7fa4-43ca-b8b7-24af26783d6d")
+		(property "Sheetname" "Main FPGA Header"
+			(at 244.094 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGAHeader.kicad_sch"
+			(at 243.84 140.462 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 119.38)
+		(size 22.86 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5331855a-6100-4742-b2a4-dc6f2f418ddc")
+		(property "Sheetname" "Main FPGA Supervisor"
+			(at 160.274 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGASupervisor.kicad_sch"
+			(at 160.02 123.7746 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 119.38)
+		(size 24.13 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55c2d2c2-8ed9-4444-a953-4a728e87f023")
+		(property "Sheetname" "Control FPGA Supervisor"
+			(at 40.894 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControlFPGASv.kicad_sch"
+			(at 40.894 123.698 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73aa7bd2-a6da-4d9c-8b80-eb9722a54fb6")
+		(property "Sheetname" "Power_root"
+			(at 26.416 32.258 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_root.kicad_sch"
+			(at 19.05 39.624 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "フィールド2" ""
+			(at 25.4 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 59.69)
+		(size 36.83 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "762e93e9-9ae8-49b0-a8b6-ef1d87b92e2f")
+		(property "Sheetname" "Power(VCC1V25C, VCC1V8, VCC2V5)"
+			(at 64.008 62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power(VCC1V2C,VCC2V5,VCC2V8).kicad_sch"
+			(at 63.5 65.3546 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 106.68)
+		(size 27.94 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9affb2f5-b6ed-43a0-a444-70a42f84fe1b")
+		(property "Sheetname" "Control FPGA Configuration"
+			(at 40.894 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControlFPGAConfig.kicad_sch"
+			(at 40.386 110.998 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 82.55 110.49)
+		(size 20.32 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0ad8467-7f2d-4c5a-a9f6-c00590d46d0c")
+		(property "Sheetname" "Controller FPGA IO"
+			(at 83.566 118.364 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControllerFPGAIO.kicad_sch"
+			(at 82.55 124.968 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 43.18)
+		(size 16.51 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad1f0d4c-7e72-4bd1-9164-f54080f92cf4")
+		(property "Sheetname" "CurrentSensAmplifer"
+			(at 165.1 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CurrentSensAmplifer.kicad_sch"
+			(at 165.1 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 90.17)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "adeecaba-9b99-47b3-ac88-5e7c7c701598")
+		(property "Sheetname" "FT2232HL"
+			(at 21.59 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FT2232HL.kicad_sch"
+			(at 20.32 94.5646 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 25.4)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c0a15116-f3a3-457e-93e8-bd7445c734c6")
+		(property "Sheetname" "Power(VCC1V0M)"
+			(at 64.262 28.702 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power(VCC1V0M).kicad_sch"
+			(at 63.5 31.0646 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 38.1)
+		(size 17.78 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c743c475-6c85-4069-9485-dd0d906062ae")
+		(property "Sheetname" "Power(VCC1V0C)"
+			(at 64.262 41.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power(VCC1V0C).kicad_sch"
+			(at 63.5 43.7646 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 38.1)
+		(size 24.13 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8701052-3c56-43b2-9939-1659115603e1")
+		(property "Sheetname" "Controller FPGA Power"
+			(at 111.506 41.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControllerFPGAPower.kicad_sch"
+			(at 110.236 44.704 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 243.84 127)
+		(size 21.59 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d82c4c14-c0a7-4141-a905-05355b270ee6")
+		(property "Sheetname" "Main FPGA Peripheral"
+			(at 244.094 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGAPeripheral.kicad_sch"
+			(at 243.84 131.3946 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160.02 107.95)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ea77e61c-1044-492b-b819-2b2ded9cc5be")
+		(property "Sheetname" "Main FPGA Configuration"
+			(at 160.528 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MainFPGAConfig.kicad_sch"
+			(at 160.02 112.3446 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 99.06)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ed8a5be2-50da-405f-8f77-f4dc0213fc00")
+		(property "Sheetname" "FT600Q"
+			(at 22.86 101.854 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FT600Q.kicad_sch"
+			(at 20.32 103.4546 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 125.73 137.16)
+		(size 25.4 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f0c15594-86ae-4f77-9d8c-bcbad84ec943")
+		(property "Sheetname" "Control FPGA Peripheral"
+			(at 126.238 139.954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ControlFPGAPeripheral.kicad_sch"
+			(at 125.73 141.732 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
