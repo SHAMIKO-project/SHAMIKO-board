@@ -17,7 +17,7 @@
 					)
 				)
 			)
-			(property "Value" "HCI 1532P-48.000KWVDT"
+			(property "Value" "HCI 1532H-48.000GWVATS"
 				(at 22.606 3.556 0)
 				(effects
 					(font
@@ -2950,7 +2950,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07e02af0-0b46-4f6c-8d38-f05b96175ee9")
-		(property "Reference" "#PWR0345"
+		(property "Reference" "#PWR0350"
 			(at 100.33 57.15 0)
 			(effects
 				(font
@@ -3000,7 +3000,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0345")
+					(reference "#PWR0350")
 					(unit 1)
 				)
 			)
@@ -3016,7 +3016,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "093c3a5e-8163-45bd-afc5-8d1daa09eed2")
-		(property "Reference" "R104"
+		(property "Reference" "R107"
 			(at 242.57 99.0599 0)
 			(effects
 				(font
@@ -3079,7 +3079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C95204"
+		(property "LCSC" "C2906993"
 			(at 240.03 100.33 0)
 			(effects
 				(font
@@ -3114,7 +3114,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R104")
+					(reference "R107")
 					(unit 1)
 				)
 			)
@@ -3195,7 +3195,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0c046526-7095-4fd6-bc37-350431f6a2b3")
-		(property "Reference" "#PWR0348"
+		(property "Reference" "#PWR0353"
 			(at 209.55 74.93 0)
 			(effects
 				(font
@@ -3245,7 +3245,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0348")
+					(reference "#PWR0353")
 					(unit 1)
 				)
 			)
@@ -3268,7 +3268,7 @@
 				)
 			)
 		)
-		(property "Value" "HCI 1532P-48.000KWVDT"
+		(property "Value" "HCI 1532H-48.000GWVATS"
 			(at 100.33 61.214 0)
 			(effects
 				(font
@@ -3350,7 +3350,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "11a06527-a49e-4cd8-8678-07b1881f9b29")
-		(property "Reference" "C247"
+		(property "Reference" "C252"
 			(at 116.332 44.196 0)
 			(effects
 				(font
@@ -3449,7 +3449,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C247")
+					(reference "C252")
 					(unit 1)
 				)
 			)
@@ -3464,7 +3464,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14430c2e-6fb6-4a2e-a6de-09c6945a5a8b")
-		(property "Reference" "#PWR0347"
+		(property "Reference" "#PWR0352"
 			(at 123.19 57.15 0)
 			(effects
 				(font
@@ -3514,7 +3514,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0347")
+					(reference "#PWR0352")
 					(unit 1)
 				)
 			)
@@ -3529,7 +3529,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1bd33f21-c30a-435e-8c03-3c15b18c9a6c")
-		(property "Reference" "#PWR0357"
+		(property "Reference" "#PWR0362"
 			(at 219.71 152.4 0)
 			(effects
 				(font
@@ -3579,7 +3579,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0357")
+					(reference "#PWR0362")
 					(unit 1)
 				)
 			)
@@ -3707,7 +3707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "48b75287-2687-461c-a8cd-07cceff85e93")
-		(property "Reference" "#PWR0352"
+		(property "Reference" "#PWR0357"
 			(at 55.88 102.87 0)
 			(effects
 				(font
@@ -3757,7 +3757,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0352")
+					(reference "#PWR0357")
 					(unit 1)
 				)
 			)
@@ -3772,7 +3772,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4966ba45-70a9-42e4-80b3-8c88ae8584e2")
-		(property "Reference" "#PWR0354"
+		(property "Reference" "#PWR0359"
 			(at 163.83 152.4 0)
 			(effects
 				(font
@@ -3822,7 +3822,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0354")
+					(reference "#PWR0359")
 					(unit 1)
 				)
 			)
@@ -3923,7 +3923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54bc30f9-75e8-4027-af44-2c05d67788aa")
-		(property "Reference" "#PWR0353"
+		(property "Reference" "#PWR0358"
 			(at 69.85 127 0)
 			(effects
 				(font
@@ -3973,7 +3973,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0353")
+					(reference "#PWR0358")
 					(unit 1)
 				)
 			)
@@ -3986,9 +3986,9 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "6098b77a-03d8-4610-bfe9-3a8c4175fac4")
-		(property "Reference" "C252"
+		(property "Reference" "C257"
 			(at 219.71 121.666 0)
 			(effects
 				(font
@@ -4075,6 +4075,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4086,7 +4087,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C252")
+					(reference "C257")
 					(unit 1)
 				)
 			)
@@ -4101,7 +4102,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6da69a0a-78a0-4bd4-82a9-ca836e2301e2")
-		(property "Reference" "C249"
+		(property "Reference" "C254"
 			(at 100.33 45.466 0)
 			(effects
 				(font
@@ -4199,7 +4200,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C249")
+					(reference "C254")
 					(unit 1)
 				)
 			)
@@ -4214,7 +4215,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f2b9ca6-35ca-4ac0-8081-7559556db2cf")
-		(property "Reference" "C251"
+		(property "Reference" "C256"
 			(at 182.88 121.666 0)
 			(effects
 				(font
@@ -4312,7 +4313,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C251")
+					(reference "C256")
 					(unit 1)
 				)
 			)
@@ -4327,7 +4328,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6f36fe13-5889-4249-bf56-16594f2ac741")
-		(property "Reference" "#PWR0356"
+		(property "Reference" "#PWR0361"
 			(at 182.88 152.4 0)
 			(effects
 				(font
@@ -4377,7 +4378,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0356")
+					(reference "#PWR0361")
 					(unit 1)
 				)
 			)
@@ -4392,7 +4393,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "725e1943-e250-480e-bbcf-e08deda930dd")
-		(property "Reference" "#PWR0355"
+		(property "Reference" "#PWR0360"
 			(at 173.99 152.4 0)
 			(effects
 				(font
@@ -4442,7 +4443,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0355")
+					(reference "#PWR0360")
 					(unit 1)
 				)
 			)
@@ -4458,7 +4459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7514f74f-e284-401e-9027-bcedc5fabe8c")
-		(property "Reference" "R106"
+		(property "Reference" "R109"
 			(at 242.57 113.0299 0)
 			(effects
 				(font
@@ -4521,7 +4522,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C95204"
+		(property "LCSC" "C105579"
 			(at 240.03 114.3 0)
 			(effects
 				(font
@@ -4556,7 +4557,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R106")
+					(reference "R109")
 					(unit 1)
 				)
 			)
@@ -4685,7 +4686,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bdd63b6-5cdd-41fd-9984-252f185e4071")
-		(property "Reference" "#PWR0349"
+		(property "Reference" "#PWR0354"
 			(at 237.49 74.93 0)
 			(effects
 				(font
@@ -4735,7 +4736,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0349")
+					(reference "#PWR0354")
 					(unit 1)
 				)
 			)
@@ -4750,7 +4751,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8555f5ea-e314-40d9-a0fa-97ea95c0e049")
-		(property "Reference" "#PWR0358"
+		(property "Reference" "#PWR0363"
 			(at 228.6 152.4 0)
 			(effects
 				(font
@@ -4800,7 +4801,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0358")
+					(reference "#PWR0363")
 					(unit 1)
 				)
 			)
@@ -4815,7 +4816,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a7fadda-9eb4-4992-abb3-91f64d06d47b")
-		(property "Reference" "#PWR0359"
+		(property "Reference" "#PWR0364"
 			(at 240.03 152.4 0)
 			(effects
 				(font
@@ -4865,7 +4866,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0359")
+					(reference "#PWR0364")
 					(unit 1)
 				)
 			)
@@ -4947,7 +4948,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "949f9313-6899-4105-8401-1c88c281382f")
-		(property "Reference" "R105"
+		(property "Reference" "R108"
 			(at 157.48 111.506 90)
 			(effects
 				(font
@@ -5008,7 +5009,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C95204"
+		(property "LCSC" "C862232"
 			(at 157.48 109.22 0)
 			(effects
 				(font
@@ -5043,73 +5044,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 173.99 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a9f44eb-4c1c-437f-9653-4e499f75f9e8")
-		(property "Reference" "#PWR0351"
-			(at 173.99 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 173.99 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 173.99 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a8584b4b-7841-4371-b562-2a4e13f5cbe2")
-		)
-		(instances
-			(project ""
-				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0351")
+					(reference "R108")
 					(unit 1)
 				)
 			)
@@ -5236,6 +5171,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 173.99 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ae4cee7a-7804-4efb-88a2-6368fc9cff71")
+		(property "Reference" "#PWR0356"
+			(at 173.99 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 173.99 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 173.99 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 173.99 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c7d8d614-16b7-49f0-9add-d6398edce5fd")
+		)
+		(instances
+			(project "shamiko"
+				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
+					(reference "#PWR0356")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 127 82.55 0)
 		(unit 1)
@@ -5244,7 +5245,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b3218c27-5b49-43d3-a3cd-d30736e4b990")
-		(property "Reference" "#PWR0350"
+		(property "Reference" "#PWR0355"
 			(at 127 88.9 0)
 			(effects
 				(font
@@ -5294,7 +5295,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0350")
+					(reference "#PWR0355")
 					(unit 1)
 				)
 			)
@@ -5309,7 +5310,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bcbe6765-4f8e-4f6a-b976-30fc4ab4bb41")
-		(property "Reference" "C253"
+		(property "Reference" "C258"
 			(at 228.6 121.666 0)
 			(effects
 				(font
@@ -5407,7 +5408,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C253")
+					(reference "C258")
 					(unit 1)
 				)
 			)
@@ -5422,7 +5423,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cfd65013-573a-42e4-bdc3-9668f3a64e86")
-		(property "Reference" "R100"
+		(property "Reference" "R103"
 			(at 63.246 57.15 90)
 			(effects
 				(font
@@ -5518,7 +5519,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R100")
+					(reference "R103")
 					(unit 1)
 				)
 			)
@@ -5713,7 +5714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e30dd69e-5604-44ee-b20f-1bb5b62bec6f")
-		(property "Reference" "R103"
+		(property "Reference" "R106"
 			(at 176.53 93.9799 0)
 			(effects
 				(font
@@ -5811,7 +5812,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R103")
+					(reference "R106")
 					(unit 1)
 				)
 			)
@@ -5946,7 +5947,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9da1d1e-c1a6-4bed-9030-ed1d5ffc17ae")
-		(property "Reference" "R102"
+		(property "Reference" "R105"
 			(at 53.086 74.93 90)
 			(effects
 				(font
@@ -6042,7 +6043,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R102")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -6057,7 +6058,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f19bd11d-8461-4137-83a7-e6eac3c14d97")
-		(property "Reference" "R101"
+		(property "Reference" "R104"
 			(at 138.43 61.976 90)
 			(effects
 				(font
@@ -6153,7 +6154,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "R101")
+					(reference "R104")
 					(unit 1)
 				)
 			)
@@ -6168,7 +6169,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f71224f1-b221-4af3-8209-e6b96ffeb2ea")
-		(property "Reference" "C248"
+		(property "Reference" "C253"
 			(at 237.49 44.196 0)
 			(effects
 				(font
@@ -6266,7 +6267,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C248")
+					(reference "C253")
 					(unit 1)
 				)
 			)
@@ -6281,7 +6282,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f7f9d936-f7db-4df4-8caa-122bac718f7d")
-		(property "Reference" "#PWR0346"
+		(property "Reference" "#PWR0351"
 			(at 111.76 57.15 0)
 			(effects
 				(font
@@ -6331,7 +6332,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "#PWR0346")
+					(reference "#PWR0351")
 					(unit 1)
 				)
 			)
@@ -6346,7 +6347,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb2a8bc9-e059-4e23-a186-70426a0e3e76")
-		(property "Reference" "C250"
+		(property "Reference" "C255"
 			(at 123.19 45.466 0)
 			(effects
 				(font
@@ -6444,7 +6445,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/55c2d2c2-8ed9-4444-a953-4a728e87f023"
-					(reference "C250")
+					(reference "C255")
 					(unit 1)
 				)
 			)

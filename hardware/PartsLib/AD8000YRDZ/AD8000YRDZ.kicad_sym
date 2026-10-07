@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AD8000YRDZ:AD8000YRDZ"
+		(property "Footprint" "AD8000:SOIC127P600X175-9N"
 			(at 0.508 8.636 0)
 			(effects
 				(font

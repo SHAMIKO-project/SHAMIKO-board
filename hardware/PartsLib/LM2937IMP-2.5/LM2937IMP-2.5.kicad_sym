@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LM2937IMP-2.5:SOT-223"
+		(property "Footprint" "SOT-223-3:SOT-223"
 			(at 0 0 0)
 			(effects
 				(font

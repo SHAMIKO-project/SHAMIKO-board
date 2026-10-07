@@ -26,7 +26,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "FT600Q-B-T:QFN-56-1EP_7x7mm_P0.4mm_EP4x4mm"
+		(property "Footprint" "FT600Q-B-T:QFN40P700X700X90-57N-D"
 			(at 0 0 0)
 			(effects
 				(font
@@ -989,24 +989,6 @@
 				)
 			)
 			(pin power_in line
-				(at 6.35 -62.23 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
 				(at 12.7 62.23 270)
 				(length 2.54)
 				(name "VCCIO"
@@ -1107,6 +1089,24 @@
 					)
 				)
 				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 24.13 -50.8 180)
+				(length 2.54)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)

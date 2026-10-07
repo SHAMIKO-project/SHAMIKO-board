@@ -25,7 +25,7 @@
 					)
 				)
 			)
-			(property "Footprint" "XilinxFPGA:XC7S25-1CSGA225C"
+			(property "Footprint" "XC7S25-1CSGA225C:BGA225C80P15X15_1300X1300X140"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4314,10 +4314,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(no_connect
-		(at 134.62 104.14)
-		(uuid "5210be70-3979-43d7-9cf7-cd7cbe7057a7")
-	)
 	(wire
 		(pts
 			(xy 43.18 48.26) (xy 38.1 48.26)
@@ -4387,6 +4383,16 @@
 			(type default)
 		)
 		(uuid "0a562291-6569-489d-8151-3e92e7fcee9e")
+	)
+	(wire
+		(pts
+			(xy 134.62 104.14) (xy 129.54 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0cfc96-986d-404f-971c-9aa8afc16c7d")
 	)
 	(wire
 		(pts
@@ -4567,6 +4573,16 @@
 			(type default)
 		)
 		(uuid "2630b063-e7d6-4e78-8194-dc85524cea93")
+	)
+	(wire
+		(pts
+			(xy 218.44 81.28) (xy 223.52 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28590060-c094-4f42-a697-6ab03bd5c01a")
 	)
 	(wire
 		(pts
@@ -5097,16 +5113,6 @@
 			(type default)
 		)
 		(uuid "8d51aac0-d39c-4410-8eaf-695e8122b2f1")
-	)
-	(wire
-		(pts
-			(xy 218.44 81.28) (xy 223.52 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9068f4e3-2169-4ff6-b89e-b18edeeae522")
 	)
 	(wire
 		(pts
@@ -6364,6 +6370,28 @@
 			)
 		)
 	)
+	(global_label "FT600_DATA_0"
+		(shape bidirectional)
+		(at 218.44 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3648c8dc-b93e-48c6-ad4c-5ac18efe62b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.216 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MC_IC_D19"
 		(shape bidirectional)
 		(at 38.1 96.52 180)
@@ -7552,28 +7580,6 @@
 			)
 		)
 	)
-	(global_label "FT600_CLK"
-		(shape bidirectional)
-		(at 218.44 58.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8dc8a86c-2fd2-484a-9100-6ba3f4944a76")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.216 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "FT600_DATA_8"
 		(shape bidirectional)
 		(at 218.44 45.72 180)
@@ -8014,28 +8020,6 @@
 			)
 		)
 	)
-	(global_label "FT600_DATA_0"
-		(shape bidirectional)
-		(at 218.44 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ad3ed032-8efc-4cfd-a101-fefa15b9ecc4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 203.216 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_DIPSW_4"
 		(shape bidirectional)
 		(at 129.54 142.24 180)
@@ -8247,6 +8231,28 @@
 		(uuid "c429b18c-568a-4ae8-b179-d1c9af1fb4cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 24.9926 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FT600_CLK"
+		(shape bidirectional)
+		(at 218.44 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c63a57b6-4f89-452e-914f-43f903cb977b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 203.216 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8850,6 +8856,28 @@
 			)
 		)
 	)
+	(global_label "C_LED_4"
+		(shape bidirectional)
+		(at 129.54 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff93518f-a214-4c40-9bd3-78b2179d344e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.316 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C_CLK_EXT0_P"
 		(shape input)
 		(at 129.54 86.36 180)
@@ -8904,7 +8932,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e19eb1cd-48c7-4b46-b008-6bba31e799a7")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 74.422 20.574 0)
 			(effects
 				(font
@@ -9669,7 +9697,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/a0ad8467-7f2d-4c5a-a9f6-c00590d46d0c"
-					(reference "U4")
+					(reference "U5")
 					(unit 10)
 				)
 			)
@@ -9685,7 +9713,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9f2055e-d2fb-4c24-8570-5b23398e0ff1")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 254.762 20.574 0)
 			(effects
 				(font
@@ -10450,7 +10478,7 @@
 		(instances
 			(project ""
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/a0ad8467-7f2d-4c5a-a9f6-c00590d46d0c"
-					(reference "U4")
+					(reference "U5")
 					(unit 11)
 				)
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/c8701052-3c56-43b2-9939-1659115603e1"
@@ -10470,7 +10498,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ffe6aecb-36b3-4f42-b2f2-1eabbb83f13a")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 165.862 20.574 0)
 			(effects
 				(font
@@ -11235,7 +11263,7 @@
 		(instances
 			(project "shamiko"
 				(path "/3bdb682e-16f1-4662-9b00-b0c9070eb240/a0ad8467-7f2d-4c5a-a9f6-c00590d46d0c"
-					(reference "U4")
+					(reference "U5")
 					(unit 9)
 				)
 			)

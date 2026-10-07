@@ -28,4 +28,5 @@
   (lib (name "MyUSB")(type "KiCad")(uri "${KIPRJMOD}/PartsLib/MyUSB/MyUSB.pretty")(options "")(descr ""))
   (lib (name "692221030100")(type "KiCad")(uri "${KIPRJMOD}/PartsLib/692221030100/692221030100.pretty")(options "")(descr ""))
   (lib (name "MMZ1005S601CT000")(type "KiCad")(uri "${KIPRJMOD}/PartsLib/MMZ1005S601CT000/MMZ1005S601CT000.pretty")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "${KIPRJMOD}/PartsLib/LOGO")(options "")(descr ""))
 )

@@ -9028,7 +9028,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XilinxFPGA:XC7S25-1CSGA225C"
+		(property "Footprint" "XC7S25-1CSGA225C:BGA225C80P15X15_1300X1300X140"
 			(at 0 0 0)
 			(effects
 				(font
